@@ -9,7 +9,7 @@
   body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f9;
+    background-color: #296324;
     color: #333;
     display: flex;
     flex-direction: column;
@@ -18,8 +18,8 @@
   
   /* Header styling */
   header {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #9ee3a0;
+    color: rgb(0, 0, 0);
     padding: 20px;
     text-align: center;
   }
@@ -51,8 +51,8 @@
   }
   
   .platform-logo {
-    width: 150px;
-    height: auto;
+    width: 200px;
+    height: 200px;
     transition: transform 0.2s;
   }
   
